@@ -1,0 +1,51 @@
++.claude.ai
++.platform.claude.com
+chat.claude.ai
+console.claude.ai
+workbench.claude.ai
+team.claude.ai
+pro.claude.ai
+# =========================================
+# Anthropic 主域名（清理冗余）
+# =========================================
++.anthropic.com
+# =========================================
+# Claude API（开发者 / 应用必备）
+# =========================================
+api.claude.ai
++.api.anthropic.com
+api.us.anthropic.com
+api.eu.anthropic.com
+# =========================================
+# 静态资源 / CDN
+# =========================================
+cdn.anthropic.com
+assets.anthropic.com
+static.anthropic.com
++.anthropic-cdn.com
+# =========================================
+# 文件 / 模型 / 用户内容
+# =========================================
+files.anthropic.com
+models.anthropic.com
++.claudeusercontent.com
+media.claudeusercontent.com
+artifacts.claude.ai
+# =========================================
+# 账号 / 登录 / 认证
+# =========================================
+auth.anthropic.com
+accounts.anthropic.com
+oauth.anthropic.com
+# =========================================
+# 遥测 / 统计（必要，避免卡顿）
+# =========================================
+events.anthropic.com
+metrics.anthropic.com
+telemetry.anthropic.com
+# =========================================
+# 可选（按需打开）
+# =========================================
+# +.docs.anthropic.com      # 文档页
+# +.support.anthropic.com   # 支持页
+# console.anthropic.com     # 旧 Console 重定向
